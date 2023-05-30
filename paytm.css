@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+nav {
+    text-align: center;
+}
+
+.img {
+    height: 40px;
+    width: 250px;
+    border-radius: 40px;
+}
+
+.bg {
+    text-align: center;
+    background: linear-gradient(to bottom, #ffffff, #87CEFA);
+    padding: 15px;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px;
+    color: #252457;
+}
+
+span {
+    color: #33ccff;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.sub {
+    font-size: 18px;
+    padding: 15px;
+
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.logo {
+
+    height: 1px;
+    width: 100px;
+}
+
+.send {
+    padding-left: 70px;
+}
+
+.btn {
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+
+
+.para1 {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px;
+    color: #1b73a6;
+}
+
+.btn1 {
+    background-color: #22b4e0;
+    border-width: 0px;
+    border-radius: 15px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card1 {
+    background-color: transparent;
+    border-width: 0px;
+
+    text-align: center;
+}
+
+.card2 {
+    background-color: transparent;
+    border-width: 0px;
+    text-align: center;
+
+}
+
+.card3 {
+    background-color: transparent;
+    border-width: 0px;
+    text-align: center;
+    padding-left: 30px;
+}
